@@ -1,0 +1,11 @@
+{
+  "name": "dropload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/dropload.min.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "ISC"
+}
+
