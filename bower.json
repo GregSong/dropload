@@ -6,7 +6,7 @@
     "ximan"
   ],
   "description": "移动端下拉刷新（基于Zepto/jQuery）",
-  "main": "dist/dropload.min.js",
+  "main": "dist/dropload.js",
   "keywords": [
     "jquery",
     "zepto",

@@ -2,7 +2,7 @@
   "name": "dropload",
   "version": "1.0.0",
   "description": "",
-  "main": "./dist/dropload.min.js",
+  "main": "./dist/dropload.js",
   "scripts": {
     "test": "jest"
   },
